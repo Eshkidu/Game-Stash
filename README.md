@@ -1,6 +1,6 @@
 [Fill out this form if you want to add any games to the stash.](https://forms.gle/uMxufsHLxGQ4vYhy8)
 
-[www.google.com](https://www.google.com)
+[Google](https://www.google.com)
 
 [Minecraft 1.12.2](https://eaglercraft.com/play/?version=1.12.2-wasm)
 
